@@ -1,13 +1,40 @@
-# README
-## This is the README for your extension "charcoal"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Charcoal Theme for Visual Studio Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+[![Version](https://vsmarketplacebadge.apphb.com/version/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-charcoal/main/images/screenshot.png)
 
-**Enjoy!**
+## Installation
+
+1. Open Extensions sidebar panel in VS Code. **View → Extensions**
+2. Search for **Charcoal**
+3. Click **Install** to install it.
+4. Click **Reload** to reload the editor.
+5. File > Preferences > Color Theme > Charcoal
+
+## Recommended Settings
+
+```
+{
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.5,
+  "editor.letterSpacing": 0.5
+}
+```
+
+## FAQ
+
+### Which font do you use?
+
+I use [Operator Mono](https://www.typography.com/fonts/operator/overview). Yes, I paid for it and it is worth every €€€ :-)
+
+## Contributing
+
+If something don't look correct, please open an issue. I'll try to fix it.
+
+## Credits
+
+- VSCode Theme Studio: [VSCode Theme Studio](https://themes.vscode.one/)
+- Samples: [Atom Language Examples](https://github.com/atom/language-examples)
