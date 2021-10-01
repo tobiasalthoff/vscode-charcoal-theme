@@ -1,0 +1,21 @@
+{
+    "name": "charcoal",
+    "displayName": "Charcoal",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Charcoal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Charcoal-color-theme.json"
+            }
+        ]
+    }
+}
