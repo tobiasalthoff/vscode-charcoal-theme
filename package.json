@@ -1,21 +1,35 @@
 {
-    "name": "charcoal",
-    "displayName": "Charcoal",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Charcoal",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Charcoal-color-theme.json"
-            }
-        ]
-    }
+  "name": "charcoal",
+  "displayName": "Charcoal",
+  "description": "Charcoal Theme",
+  "version": "0.0.1",
+  "publisher": "tobiasalthoff",
+  "author": "tobiasalthoff",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiasalthoff/vscode-charcoal-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tobiasalthoff/vscode-charcoal-theme/issues"
+  },
+  "homepage": "https://github.com/tobiasalthoff/vscode-charcoal-theme#readme",
+  "galleryBanner": {
+    "color": "#191C1F",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Charcoal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Charcoal-color-theme.json"
+      }
+    ]
+  }
 }
