@@ -4,7 +4,7 @@
 [![Rating](https://vsmarketplacebadge.apphb.com/rating/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
 
-![Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-charcoal/main/images/screenshot.png)
+![Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-charcoal-theme/main/images/screenshot.png)
 
 ## Installation
 
