@@ -20,6 +20,7 @@
     "color": "#191C1F",
     "theme": "dark"
   },
+  "icon": "images/icon.png",
   "categories": [
     "Themes"
   ],
