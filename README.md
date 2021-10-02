@@ -1,5 +1,7 @@
 # Charcoal Theme for Visual Studio Code
 
+> Work in progress, colors may change
+
 [![Version](https://vsmarketplacebadge.apphb.com/version/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
