@@ -8,14 +8,6 @@
 
 ![Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-charcoal-theme/main/images/screenshot.png)
 
-## Syntax Colors
-
-![Syntax Colors Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-charcoal-theme/main/images/syntax.png)
-
-## Terminal Colors
-
-![Terminal Colors Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-charcoal-theme/main/images/terminal.png)
-
 ## Installation
 
 1. Open Extensions sidebar panel in VS Code. **View → Extensions**
