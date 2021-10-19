@@ -1,12 +1,20 @@
 # Charcoal Theme for Visual Studio Code
 
-> Work in progress, colors may change
+> ⚠️ Work in progress, colors may change ⚠️
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/tobiasalthoff.charcoal.svg)](https://marketplace.visualstudio.com/items?itemName=tobiasalthoff.charcoal)
 
 ![Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-charcoal-theme/main/images/screenshot.png)
+
+## Syntax Colors
+
+![Syntax Colors Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-charcoal-theme/main/images/syntax.png)
+
+## Terminal Colors
+
+![Terminal Colors Preview](https://raw.githubusercontent.com/tobiasalthoff/vscode-charcoal-theme/main/images/terminal.png)
 
 ## Installation
 
