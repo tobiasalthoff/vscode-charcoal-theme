@@ -1,7 +1,7 @@
 # Charcoal Theme for Visual Studio Code
 
 <div align="center">
-  <a href="https://vscode.dev/theme/tobiasalthoff.charocal" align="center">
+  <a href="https://vscode.dev/theme/tobiasalthoff.charcoal" align="center">
     <img src="https://img.shields.io/badge/preview%20in-vscode.dev-blue">
   </a>
 </div>
